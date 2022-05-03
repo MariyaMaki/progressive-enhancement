@@ -1,0 +1,7 @@
+a:hover {
+    background-color: blueviolet;
+    color: black;
+}
+a:visited {
+    color: red;
+}
