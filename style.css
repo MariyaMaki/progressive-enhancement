@@ -28,8 +28,8 @@ p {
 q {
     display: block;
     width: 50%;
-    margin: auto;
-    padding: 80px 0px 80px 30px;
+    margin: 80px auto;
+    padding-left: 30px;
     font-size: 160%;
     background-color: lightgray;
     border-left: 3px solid brown;
