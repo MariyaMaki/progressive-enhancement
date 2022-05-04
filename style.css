@@ -50,6 +50,13 @@ q {
 .first-paragraphe {
     font-weight: bold;
 }
+table {
+    border: 3px solid black;
+
+}
+td, tr, th {
+    border: 1px solid black;
+}
 tr:nth-child(even) {
     background-color: grey;
 }
